@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Noto+Sans+KR:wght@400;700&family=Yeon+Sung&display=swap');
+
 /* App */
 .App {
+  font-family: "Nanum Pen Script", cursive;
+  font-family: "Yeon sung", cursive;
 }
 
 /* editor */
